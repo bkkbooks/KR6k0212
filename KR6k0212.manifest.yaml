@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6k0212/v1
+canonical_location: https://kanripo.org/bkk/KR6k0212/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 衣鉢名義章
+  identifiers:
+    alt_id:
+    - X59n1098
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1098.xml
+    old_id: X59n1098
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0212_000.yaml, hash: 'sha256:98e883a9150de18141f45c783a94df969cb0a218260b87b3ddab5462de7364a8'}
+  - {seq: 1, filename: KR6k0212_001.yaml, hash: 'sha256:8e00453b485175641bd360f9cd686e549edc9a0d820647941d21918b673527d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0212_001.markers.yaml, hash: 'sha256:aa2676789fb3b1bc1d7e6301fbb742cca13a9faaf02131df3087c99d16c9de02'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2810
+  label: 衣鉢名義章并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-2
+    span:
+    - body
+    - 140
+    - 140
+  label: 袈裟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-3
+    span:
+    - body
+    - 666
+    - 666
+  label: 縵衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-4
+    span:
+    - body
+    - 851
+    - 851
+  label: 安陀會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-5
+    span:
+    - body
+    - 1009
+    - 1009
+  label: 󳬂多羅僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-6
+    span:
+    - body
+    - 1141
+    - 1141
+  label: 僧伽棃
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-7
+    span:
+    - body
+    - 1425
+    - 1425
+  label: 從衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-8
+    span:
+    - body
+    - 1524
+    - 1524
+  label: 尼師壇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-9
+    span:
+    - body
+    - 1889
+    - 1889
+  label: 褊衫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-10
+    span:
+    - body
+    - 2131
+    - 2131
+  label: 覆肩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-11
+    span:
+    - body
+    - 2280
+    - 2280
+  label: 涅槃僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0212_X_001-mulu-12
+    span:
+    - body
+    - 2455
+    - 2455
+  label: 鉢多羅
+  type: mulu
+  level: 1
+hash: sha256:67dcb7a74299252ac8a2b15c36cdbd097d6d54726014b77b598d700e149f705b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

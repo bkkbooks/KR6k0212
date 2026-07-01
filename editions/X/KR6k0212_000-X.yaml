@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0212/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 衣鉢名義章
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1098.xml
+    old_id: X59n1098
+hash: sha256:98e883a9150de18141f45c783a94df969cb0a218260b87b3ddab5462de7364a8

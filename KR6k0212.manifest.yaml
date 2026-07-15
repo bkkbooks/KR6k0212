@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0212/v1
 canonical_location: https://kanripo.org/bkk/KR6k0212/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 衣鉢名義章
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0212_000.yaml, hash: 'sha256:98e883a9150de18141f45c783a94df969cb0a218260b87b3ddab5462de7364a8'}
-  - {seq: 1, filename: KR6k0212_001.yaml, hash: 'sha256:51588946333546d359626a34bb2037c29201cead657072c0a844212d270483ef'}
+  - {seq: 1, filename: KR6k0212_001.yaml, hash: 'sha256:1d926c7ac211157019167f6de9c2c5427b58b04fb4fcf1c55396239a1c7604a2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0212_000.markers.yaml, hash: 'sha256:cef4653f09e2201be93d9db37cfaffb335eefac4f7c07591dceeff6140c9062f'}
-  - {seq: 1, role: markers, filename: assets/KR6k0212_001.markers.yaml, hash: 'sha256:eb5a0b73b7e51bd3b739b4d6f7bd31ace447b67a3b928753dbbab0dd4da7bef4'}
+  - {seq: 1, role: markers, filename: assets/KR6k0212_001.markers.yaml, hash: 'sha256:2cb043749c3e591807b24c00245f6017c5c4489b11279cf9daa15581f3571292'}
 table_of_contents:
 - ref:
     seq: 1
@@ -157,4 +157,7 @@ table_of_contents:
   label: 鉢多羅
   type: mulu
   level: 1
-hash: sha256:618bb999e59f1545e1618e6328bf8b7649c7dc0221942ddc2cda2c0bb0f36f17
+hash: sha256:646a2f6fa0d1fe8ce82ce33091df57d2590ffadaf8abc9f158058769854a61e7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
